@@ -6,8 +6,24 @@ object Interest_Calculator extends App {
     case x if x > 2000000 => x * 0.065
   }
 
-  println("Enter a deposit amount:")
-  val deposit = scala.io.StdIn.readDouble()
+  var validDeposit = false
+  var deposit: Double = 0.0
+
+  while (!validDeposit) {
+    println("Enter a deposit amount:")
+    try {
+      deposit = scala.io.StdIn.readDouble()
+       if (deposit < 0) {
+        println("Invalid input. Please enter a positive number.")
+      } else {
+        validDeposit = true
+      }
+    } catch {
+      case _: NumberFormatException =>
+        println("Invalid input. Please enter a valid number.")
+    }
+  }
+
   val interest = calculateInterest(deposit)
   println(s"Interest for deposit $deposit is $interest")
 }

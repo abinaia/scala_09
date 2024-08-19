@@ -431,3 +431,24 @@ Aug 19, 2024 10:06:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 501
 Aug 19, 2024 10:06:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 509
+Aug 19, 2024 10:07:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 539
+2024.08.19 22:07:09 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:07:09 INFO  time: compiled Scala-09_f4dd477a3a in 0.5s
+2024.08.19 22:16:02 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:16:02 INFO  time: compiled Scala-09_f4dd477a3a in 0.52s
+2024.08.19 22:16:03 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:16:03 INFO  time: compiled Scala-09_f4dd477a3a in 0.26s
+2024.08.19 22:16:04 WARN  Could not load snapshot text for C:\Users\abina\OneDrive\Desktop\Scala-09\Q1.scala
+2024.08.19 22:16:07 WARN  Could not load snapshot text for C:\Users\abina\OneDrive\Desktop\Scala-09\Q1.scala
+2024.08.19 22:16:08 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:16:08 INFO  time: compiled Scala-09_f4dd477a3a in 0.51s
+2024.08.19 22:18:20 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q1.scala
+2024.08.19 22:18:21 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:18:21 INFO  time: compiled Scala-09_f4dd477a3a in 53ms
+2024.08.19 22:18:21 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q1.scala
+2024.08.19 22:18:23 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q1.scala
+2024.08.19 22:18:25 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:18:25 INFO  time: compiled Scala-09_f4dd477a3a in 0.29s
+2024.08.19 22:18:38 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:18:38 INFO  time: compiled Scala-09_f4dd477a3a in 0.49s
