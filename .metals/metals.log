@@ -1,0 +1,433 @@
+2024.08.18 09:50:47 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\abina\OneDrive\Desktop\Scala-09' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@4eb6f317]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@23014cee]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4eb6f317]
+2024.08.18 09:50:48 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.18 09:50:50 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:50:51 INFO  Running List(C:\Users\abina\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\abina\OneDrive\Desktop\Scala-09)
+2024.08.18 09:50:52 INFO  Attempting to connect to the build server...
+2024.08.18 09:50:52 INFO  Running BSP server List(C:\Users\abina\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\abina\OneDrive\Desktop\Scala-09\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\abina\OneDrive\Desktop\Scala-09\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\abina\OneDrive\Desktop\Scala-09\.scala-build\ide-envs.json, C:\Users\abina\OneDrive\Desktop\Scala-09)
+2024.08.18 09:50:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\abina\OneDrive\Desktop\Scala-09\.metals\bsp.trace.json or C:\Users\abina\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.18 09:50:57 INFO  BSP server: Starting compilation server
+2024.08.18 09:51:07 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:09 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala
+2024.08.18 09:51:09 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:09 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:09 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:09 INFO  time: Connected to build server in 16s
+2024.08.18 09:51:09 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:09 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.18 09:51:10 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala
+2024.08.18 09:51:10 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:11 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:51:11 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:11 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:12 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala
+2024.08.18 09:51:12 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:12 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:14 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:15 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala
+2024.08.18 09:51:15 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:15 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:16 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:16 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:16 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:17 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:17 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:18 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:17 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:17 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:17 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:17 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:19 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 09:51:19 INFO  time: Imported build in 9.85s
+2024.08.18 09:51:19 INFO  running doctor check
+2024.08.18 09:51:19 INFO  java targets: Scala-09_f4dd477a3a, Scala-09_f4dd477a3a-test
+2024.08.18 09:51:19 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:51:22 INFO  time: compiled Scala-09_f4dd477a3a in 2.68s
+2024.08.18 09:51:22 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:51:22 INFO  time: compiled Scala-09_f4dd477a3a in 0.13s
+2024.08.18 09:51:23 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:51:23 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.18 09:51:23 INFO  time: compiled Scala-09_f4dd477a3a in 0.26s
+2024.08.18 09:51:26 INFO  time: indexed workspace in 7.54s
+2024.08.18 09:51:27 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:51:27 INFO  time: compiled Scala-09_f4dd477a3a in 0.35s
+2024.08.18 09:51:27 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:51:27 INFO  time: compiled Scala-09_f4dd477a3a in 0.3s
+2024.08.18 09:51:28 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:51:28 INFO  time: compiled Scala-09_f4dd477a3a in 0.23s
+2024.08.18 09:51:31 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:51:31 INFO  time: compiled Scala-09_f4dd477a3a in 0.77s
+2024.08.18 09:51:34 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:51:34 INFO  time: compiled Scala-09_f4dd477a3a in 0.68s
+Aug 18, 2024 9:51:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 146
+2024.08.18 09:51:53 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:51:55 INFO  time: compiled Scala-09_f4dd477a3a in 2.12s
+2024.08.18 09:52:02 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:52:02 INFO  time: compiled Scala-09_f4dd477a3a in 0.6s
+2024.08.18 09:52:05 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:52:06 INFO  time: compiled Scala-09_f4dd477a3a in 1s
+2024.08.18 09:52:06 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:52:06 INFO  time: compiled Scala-09_f4dd477a3a in 0.18s
+2024.08.18 09:52:11 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:52:11 INFO  time: compiled Scala-09_f4dd477a3a in 0.61s
+2024.08.18 09:52:12 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:52:12 INFO  time: compiled Scala-09_f4dd477a3a in 0.62s
+2024.08.18 09:52:16 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:52:16 INFO  time: compiled Scala-09_f4dd477a3a in 0.14s
+2024.08.18 09:56:08 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:56:08 INFO  time: compiled Scala-09_f4dd477a3a in 0.67s
+2024.08.18 09:56:33 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:56:33 INFO  time: compiled Scala-09_f4dd477a3a in 0.48s
+2024.08.18 09:58:10 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:58:10 INFO  time: compiled Scala-09_f4dd477a3a in 0.36s
+2024.08.18 09:58:21 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:58:21 INFO  time: compiled Scala-09_f4dd477a3a in 0.48s
+2024.08.18 09:59:01 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.18 09:59:02 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:59:02 INFO  time: compiled Scala-09_f4dd477a3a in 0.11s
+2024.08.18 09:59:02 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.18 09:59:14 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:59:14 INFO  time: compiled Scala-09_f4dd477a3a in 0.86s
+2024.08.18 09:59:31 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 09:59:31 INFO  time: compiled Scala-09_f4dd477a3a in 0.21s
+2024.08.18 10:00:59 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 10:00:59 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 10:00:59 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.18 10:01:00 INFO  running doctor check
+2024.08.18 10:01:00 INFO  java targets: Scala-09_f4dd477a3a, Scala-09_f4dd477a3a-test
+2024.08.18 10:01:00 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:01:00 INFO  time: compiled Scala-09_f4dd477a3a in 0.13s
+2024.08.18 10:01:02 INFO  time: indexed workspace in 2.42s
+2024.08.18 10:01:08 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.18 10:01:11 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:01:11 INFO  time: compiled Scala-09_f4dd477a3a in 0.74s
+2024.08.18 10:01:28 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.18 10:01:30 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:01:30 INFO  time: compiled Scala-09_f4dd477a3a in 0.11s
+2024.08.18 10:01:30 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.18 10:03:24 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.18 10:03:25 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.18 10:03:27 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:03:27 INFO  time: compiled Scala-09_f4dd477a3a in 0.77s
+2024.08.18 10:03:50 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 10:03:50 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\Scala-09\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.18 10:03:50 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q1.scala
+2024.08.18 10:03:51 INFO  running doctor check
+2024.08.18 10:03:51 INFO  java targets: Scala-09_f4dd477a3a, Scala-09_f4dd477a3a-test
+2024.08.18 10:03:51 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:03:51 INFO  time: compiled Scala-09_f4dd477a3a in 0.15s
+2024.08.18 10:03:53 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:03:53 INFO  time: indexed workspace in 2.17s
+2024.08.18 10:03:53 INFO  time: compiled Scala-09_f4dd477a3a in 0.67s
+Aug 18, 2024 10:04:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 603
+2024.08.18 10:04:28 WARN  Could not load snapshot text for C:\Users\abina\OneDrive\Desktop\Scala-09\Q1.scala
+2024.08.18 10:04:28 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:04:29 WARN  Could not load snapshot text for C:\Users\abina\OneDrive\Desktop\Scala-09\Q1.scala
+2024.08.18 10:04:28 INFO  time: compiled Scala-09_f4dd477a3a in 0.67s
+2024.08.18 10:04:32 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:04:32 INFO  time: compiled Scala-09_f4dd477a3a in 0.55s
+2024.08.18 10:04:37 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:04:37 INFO  time: compiled Scala-09_f4dd477a3a in 0.55s
+2024.08.18 10:04:40 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:04:40 INFO  time: compiled Scala-09_f4dd477a3a in 0.46s
+2024.08.18 10:04:44 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:04:44 INFO  time: compiled Scala-09_f4dd477a3a in 0.46s
+2024.08.18 10:04:52 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:04:52 INFO  time: compiled Scala-09_f4dd477a3a in 0.22s
+2024.08.18 10:04:57 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:04:57 INFO  time: compiled Scala-09_f4dd477a3a in 0.14s
+2024.08.18 10:05:01 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.18 10:05:01 INFO  time: compiled Scala-09_f4dd477a3a in 0.43s
+2024.08.18 12:52:54 INFO  Shutting down server
+2024.08.18 12:52:54 INFO  shutting down Metals
+2024.08.18 12:52:54 INFO  Shut down connection with build server.
+2024.08.18 12:52:54 INFO  Exiting server
+2024.08.19 20:01:54 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\abina\OneDrive\Desktop\Scala-09' for client Visual Studio Code 1.92.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@47dec37f]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@28c61160]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@47dec37f]
+2024.08.19 20:01:55 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.19 20:01:56 INFO  Attempting to connect to the build server...
+2024.08.19 20:01:56 INFO  Running BSP server List(C:\Users\abina\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\abina\OneDrive\Desktop\Scala-09\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\abina\OneDrive\Desktop\Scala-09\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\abina\OneDrive\Desktop\Scala-09\.scala-build\ide-envs.json, C:\Users\abina\OneDrive\Desktop\Scala-09)
+2024.08.19 20:01:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\abina\OneDrive\Desktop\Scala-09\.metals\bsp.trace.json or C:\Users\abina\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.19 20:02:02 INFO  BSP server: Starting compilation server
+2024.08.19 20:02:17 INFO  time: Connected to build server in 20s
+2024.08.19 20:02:17 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.19 20:02:17 INFO  time: Imported build in 0.24s
+2024.08.19 20:02:17 INFO  running doctor check
+2024.08.19 20:02:17 INFO  java targets: Scala-09_f4dd477a3a, Scala-09_f4dd477a3a-test
+2024.08.19 20:02:28 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.19 20:02:29 INFO  time: indexed workspace in 11s
+2024.08.19 21:51:22 INFO  Shutting down server
+2024.08.19 21:51:22 INFO  shutting down Metals
+2024.08.19 21:51:22 INFO  Shut down connection with build server.
+2024.08.19 21:51:22 INFO  Exiting server
+2024.08.19 21:59:57 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\abina\OneDrive\Desktop\Scala-09' for client Visual Studio Code 1.92.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@69be4047]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7581a593]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@69be4047]
+2024.08.19 21:59:58 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.19 21:59:59 INFO  Attempting to connect to the build server...
+2024.08.19 21:59:59 INFO  Running BSP server List(C:\Users\abina\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\abina\OneDrive\Desktop\Scala-09\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\abina\OneDrive\Desktop\Scala-09\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\abina\OneDrive\Desktop\Scala-09\.scala-build\ide-envs.json, C:\Users\abina\OneDrive\Desktop\Scala-09)
+2024.08.19 21:59:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\abina\OneDrive\Desktop\Scala-09\.metals\bsp.trace.json or C:\Users\abina\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.19 22:00:05 INFO  time: Connected to build server in 6.56s
+2024.08.19 22:00:05 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.19 22:00:05 INFO  time: Imported build in 0.1s
+2024.08.19 22:00:05 INFO  running doctor check
+2024.08.19 22:00:05 INFO  java targets: Scala-09_f4dd477a3a, Scala-09_f4dd477a3a-test
+2024.08.19 22:00:10 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.19 22:00:11 INFO  time: indexed workspace in 6.1s
+2024.08.19 22:01:12 INFO  logging to files C:\Users\abina\OneDrive\Desktop\Scala-09\.metals\metals.log
+Aug 19, 2024 10:02:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+2024.08.19 22:02:55 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:02:59 INFO  time: compiled Scala-09_f4dd477a3a in 4.36s
+2024.08.19 22:03:05 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.19 22:03:07 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:03:07 INFO  time: compiled Scala-09_f4dd477a3a in 0.3s
+2024.08.19 22:03:07 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.19 22:03:10 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.19 22:03:11 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:03:11 INFO  time: compiled Scala-09_f4dd477a3a in 0.25s
+2024.08.19 22:03:11 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.19 22:03:14 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.19 22:03:15 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:03:15 INFO  time: compiled Scala-09_f4dd477a3a in 0.2s
+2024.08.19 22:03:16 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.19 22:03:17 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.19 22:03:17 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.19 22:03:18 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q2.scala
+2024.08.19 22:03:22 ERROR C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:469)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.19 22:03:25 ERROR C:\Users\abina\OneDrive\Desktop\Scala-09\Q2.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:469)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.19 22:03:29 INFO  Cancelling compilation on scala-cli server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.19 22:03:29 INFO  BSP server: Aug 19, 2024 10:03:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.08.19 22:03:29 INFO  BSP server: SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index -2147483648 out of bounds for length 335
+2024.08.19 22:03:29 INFO  BSP server: java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index -2147483648 out of bounds for length 335
+2024.08.19 22:03:29 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315)
+2024.08.19 22:03:29 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320)
+2024.08.19 22:03:29 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770)
+2024.08.19 22:03:29 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.08.19 22:03:29 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.08.19 22:03:29 INFO  BSP server: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2024.08.19 22:03:29 INFO  BSP server: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.08.19 22:03:29 INFO  BSP server: 	at com.oracle.svm.core.windows.WindowsPlatformThreads.osThreadStartRoutine(WindowsPlatformThreads.java:178)
+2024.08.19 22:03:29 INFO  BSP server: Caused by: java.lang.ArrayIndexOutOfBoundsException: Index -2147483648 out of bounds for length 335
+2024.08.19 22:03:29 INFO  BSP server: 	at com.virtuslab.using_directives.custom.CustomCharArrayReader.nextChar(CustomCharArrayReader.java:29)
+2024.08.19 22:03:29 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.lambda$skipComment$5(Scanner.java:298)
+2024.08.19 22:03:29 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.skipComment(Scanner.java:308)
+2024.08.19 22:03:29 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.doFetchToken(Scanner.java:187)
+2024.08.19 22:03:29 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.fetchToken(Scanner.java:144)
+2024.08.19 22:03:29 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.nextToken(Scanner.java:98)
+2024.08.19 22:03:29 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.<init>(Scanner.java:27)
+2024.08.19 22:03:29 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Parser.<init>(Parser.java:20)
+2024.08.19 22:03:29 INFO  BSP server: 	at com.virtuslab.using_directives.UsingDirectivesProcessor.extract(UsingDirectivesProcessor.java:34)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.preprocessing.ExtractedDirectives$.from(ExtractedDirectives.scala:48)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.preprocessing.ScalaPreprocessor$.process$$anonfun$1(ScalaPreprocessor.scala:196)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.preprocessing.ScalaPreprocessor$.process(ScalaPreprocessor.scala:210)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.preprocessing.ScalaPreprocessor$.$anonfun$1(ScalaPreprocessor.scala:71)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.preprocessing.ScalaPreprocessor$.preprocess(ScalaPreprocessor.scala:115)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.CrossSources$.preprocessSources$1$$anonfun$1$$anonfun$1(CrossSources.scala:180)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.collection.Iterator$$anon$10.nextCur(Iterator.scala:594)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.collection.Iterator$$anon$10.hasNext(Iterator.scala:608)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.collection.Iterator$SliceIterator.hasNext(Iterator.scala:1240)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.collection.immutable.List.prependedAll(List.scala:152)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.collection.AbstractIterator.toList(Iterator.scala:1303)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.CrossSources$.preprocessSources$1$$anonfun$1(CrossSources.scala:182)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.collection.immutable.List.map(List.scala:251)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.collection.immutable.List.map(List.scala:79)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.CrossSources$.preprocessSources$1(CrossSources.scala:185)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.CrossSources$.forInputs$$anonfun$1(CrossSources.scala:204)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.CrossSources$.forInputs(CrossSources.scala:376)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.bsp.BspImpl.prepareBuild$$anonfun$1(BspImpl.scala:111)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.bsp.BspImpl.prepareBuild(BspImpl.scala:212)
+2024.08.19 22:03:29 INFO  BSP server: 	at scala.build.bsp.BspImpl.$anonfun$9(BspImpl.scala:293)
+2024.08.19 22:03:29 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+2024.08.19 22:03:29 INFO  BSP server: 	... 5 more
+2024.08.19 22:03:29 INFO  BSP server: 
+2024.08.19 22:03:29 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:03:29 INFO  time: compiled Scala-09_f4dd477a3a in 0.66s
+2024.08.19 22:03:34 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:03:36 INFO  time: compiled Scala-09_f4dd477a3a in 1.83s
+2024.08.19 22:03:46 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.19 22:03:47 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:03:47 INFO  time: compiled Scala-09_f4dd477a3a in 0.15s
+2024.08.19 22:03:47 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.19 22:03:49 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.19 22:03:53 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.19 22:03:59 INFO  BSP server: Aug 19, 2024 10:03:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.08.19 22:03:59 INFO  BSP server: SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index -2147483648 out of bounds for length 577
+2024.08.19 22:03:59 INFO  BSP server: java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index -2147483648 out of bounds for length 577
+2024.08.19 22:03:59 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315)
+2024.08.19 22:03:59 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320)
+2024.08.19 22:03:59 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770)
+2024.08.19 22:03:59 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.08.19 22:03:59 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.08.19 22:03:59 INFO  BSP server: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2024.08.19 22:03:59 INFO  Cancelling compilation on scala-cli server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.19 22:03:59 INFO  BSP server: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.08.19 22:03:59 INFO  BSP server: 	at com.oracle.svm.core.windows.WindowsPlatformThreads.osThreadStartRoutine(WindowsPlatformThreads.java:178)
+2024.08.19 22:03:59 INFO  BSP server: Caused by: java.lang.ArrayIndexOutOfBoundsException: Index -2147483648 out of bounds for length 577
+2024.08.19 22:03:59 INFO  BSP server: 	at com.virtuslab.using_directives.custom.CustomCharArrayReader.nextChar(CustomCharArrayReader.java:29)
+2024.08.19 22:03:59 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.lambda$skipComment$5(Scanner.java:298)
+2024.08.19 22:03:59 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.skipComment(Scanner.java:308)
+2024.08.19 22:03:59 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.doFetchToken(Scanner.java:187)
+2024.08.19 22:03:59 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.fetchToken(Scanner.java:144)
+2024.08.19 22:03:59 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.nextToken(Scanner.java:98)
+2024.08.19 22:03:59 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Scanner.<init>(Scanner.java:27)
+2024.08.19 22:03:59 INFO  BSP server: 	at com.virtuslab.using_directives.custom.Parser.<init>(Parser.java:20)
+2024.08.19 22:03:59 INFO  BSP server: 	at com.virtuslab.using_directives.UsingDirectivesProcessor.extract(UsingDirectivesProcessor.java:34)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.preprocessing.ExtractedDirectives$.from(ExtractedDirectives.scala:48)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.preprocessing.ScalaPreprocessor$.process$$anonfun$1(ScalaPreprocessor.scala:196)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.preprocessing.ScalaPreprocessor$.process(ScalaPreprocessor.scala:210)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.preprocessing.ScalaPreprocessor$.$anonfun$1(ScalaPreprocessor.scala:71)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.preprocessing.ScalaPreprocessor$.preprocess(ScalaPreprocessor.scala:115)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.CrossSources$.preprocessSources$1$$anonfun$1$$anonfun$1(CrossSources.scala:180)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.collection.Iterator$$anon$10.nextCur(Iterator.scala:594)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.collection.Iterator$$anon$10.hasNext(Iterator.scala:608)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.collection.Iterator$SliceIterator.hasNext(Iterator.scala:1240)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.collection.immutable.List.prependedAll(List.scala:152)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.collection.AbstractIterator.toList(Iterator.scala:1303)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.CrossSources$.preprocessSources$1$$anonfun$1(CrossSources.scala:182)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.collection.immutable.List.map(List.scala:251)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.collection.immutable.List.map(List.scala:79)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.CrossSources$.preprocessSources$1(CrossSources.scala:185)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.CrossSources$.forInputs$$anonfun$1(CrossSources.scala:204)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.CrossSources$.forInputs(CrossSources.scala:376)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.bsp.BspImpl.prepareBuild$$anonfun$1(BspImpl.scala:111)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.bsp.BspImpl.prepareBuild(BspImpl.scala:212)
+2024.08.19 22:03:59 INFO  BSP server: 	at scala.build.bsp.BspImpl.$anonfun$9(BspImpl.scala:293)
+2024.08.19 22:03:59 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+2024.08.19 22:03:59 INFO  BSP server: 	... 5 more
+2024.08.19 22:03:59 INFO  BSP server: 
+2024.08.19 22:04:00 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:04:01 INFO  time: compiled Scala-09_f4dd477a3a in 1.32s
+2024.08.19 22:04:31 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.19 22:04:33 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:04:35 INFO  time: compiled Scala-09_f4dd477a3a in 1.46s
+2024.08.19 22:04:38 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/Scala-09/Q3.scala
+2024.08.19 22:04:39 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:04:39 INFO  time: compiled Scala-09_f4dd477a3a in 0.91s
+2024.08.19 22:04:44 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:04:45 INFO  time: compiled Scala-09_f4dd477a3a in 1.14s
+2024.08.19 22:04:46 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:04:46 INFO  time: compiled Scala-09_f4dd477a3a in 0.74s
+2024.08.19 22:04:57 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:04:57 INFO  time: compiled Scala-09_f4dd477a3a in 0.54s
+2024.08.19 22:04:59 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:04:59 INFO  time: compiled Scala-09_f4dd477a3a in 0.34s
+2024.08.19 22:05:13 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:05:13 INFO  time: compiled Scala-09_f4dd477a3a in 0.3s
+2024.08.19 22:05:16 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:05:16 INFO  time: compiled Scala-09_f4dd477a3a in 0.31s
+2024.08.19 22:05:19 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:05:19 INFO  time: compiled Scala-09_f4dd477a3a in 0.23s
+2024.08.19 22:05:22 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:05:22 INFO  time: compiled Scala-09_f4dd477a3a in 0.63s
+2024.08.19 22:05:47 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:05:47 INFO  time: compiled Scala-09_f4dd477a3a in 0.53s
+2024.08.19 22:05:55 INFO  compiling scala-09_f4dd477a3a (1 scala source)
+2024.08.19 22:05:55 INFO  time: compiled Scala-09_f4dd477a3a in 0.51s
+Aug 19, 2024 10:05:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 484
+Aug 19, 2024 10:05:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 493
+Aug 19, 2024 10:06:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 501
+Aug 19, 2024 10:06:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 509
